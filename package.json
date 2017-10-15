@@ -1,0 +1,21 @@
+{
+  "name": "bot-text-mover",
+  "version": "1.0.0",
+  "description": "Moves text from other channels to bot channel (Discord)",
+  "engines": {
+    "node": "7.10.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "RVM",
+  "license": "ISC"
+}
